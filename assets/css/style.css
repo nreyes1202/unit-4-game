@@ -1,0 +1,25 @@
+.main-header{
+    display: block;
+    background-color: #df6231;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    height: 25px;
+    width: 15%;
+    margin: 20px;
+}
+
+.instructions{
+    display: block;
+    background-color:#cc6ba5;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 40%;
+    margin: 20px; 
+}
+p{
+    text-align: left;
+    padding: 10 px;
+
+}
